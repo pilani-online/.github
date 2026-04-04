@@ -57,7 +57,7 @@ Each product is designed with a clear philosophy:
 * Structured & searchable
 * Multi-department coverage
 
-`/pilani.online/handout.pilani`
+`/pgoenka/handout.pilani`
 
 </td>
 </tr>
