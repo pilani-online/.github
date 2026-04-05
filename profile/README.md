@@ -13,6 +13,8 @@
   <a href="https://curve.pilani.online"><img src="https://img.shields.io/badge/cure.pilani-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://handout.pilani.online"><img src="https://img.shields.io/badge/handout.pilani-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://ps1.pilani.online"><img src="https://img.shields.io/badge/ps1.pilani-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ps1.pilani.online"><img src="https://img.shields.io/badge/ps2.pilani-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://ps1.pilani.online"><img src="https://img.shields.io/badge/prereq.pilani-Live-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
