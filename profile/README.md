@@ -74,9 +74,26 @@ Each product is designed with a clear philosophy:
 * Trend analysis
 * Preference optimization
 
-`/ps1.pilani`
+`pgoenka/ps1.pilani`
 
 </td>
+<td width="50%">
+
+### 🧾 ps2.pilani
+
+**PS2 Analytics Engine**
+🔗 https://ps2.pilani.online
+
+* Historical station data
+* Trend analysis
+* Preference optimization
+
+`pgoenka/ps2.pilani`
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ✉️ merge.pilani
@@ -88,22 +105,6 @@ Each product is designed with a clear philosophy:
 * Scheduling workflows
 
 `/pilani.online/merge.pilani`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 consulting.pilani *(In Development)*
-
-**AI Consulting Prep Platform**
-
-* Case interview simulation
-* Structured feedback systems
-* AI-driven evaluation
-
-`/pilani.online/consulting.pilani`
 
 </td>
 <td width="50%">
@@ -118,6 +119,22 @@ Each product is designed with a clear philosophy:
 * Spatial graph navigation (zoom, pan, gestures)
 
 `/pgoenka/prereq.pilani`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🤖 consulting.pilani *(In Development)*
+
+**AI Consulting Prep Platform**
+
+* Case interview simulation
+* Structured feedback systems
+* AI-driven evaluation
+
+`/pilani.online/consulting.pilani`
 
 </td>
 </tr>
