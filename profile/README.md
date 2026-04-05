@@ -106,9 +106,6 @@ Each product is designed with a clear philosophy:
 `/pilani.online/consulting.pilani`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### prereq.pilani
