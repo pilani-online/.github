@@ -93,7 +93,7 @@ Each product is designed with a clear philosophy:
 </tr>
 
 <tr>
-<td colspan="2">
+<td width="50%">
 
 ### 🤖 consulting.pilani *(In Development)*
 
@@ -104,6 +104,23 @@ Each product is designed with a clear philosophy:
 * AI-driven evaluation
 
 `/pilani.online/consulting.pilani`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### prereq.pilani
+
+**Prerequisite Graph Engine**
+🔗 https://prereq.pilani.online
+
+* Interactive DAG-based prerequisite visualization
+* AND / OR logic + co-requisite rendering
+* Spatial graph navigation (zoom, pan, gestures)
+
+`/pgoenka/prereq.pilani`
 
 </td>
 </tr>
