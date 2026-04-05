@@ -36,7 +36,7 @@ Each product is designed with a clear philosophy:
 <tr>
 <td width="50%">
 
-### 📊 cure.pilani
+### 📊 curve.pilani
 
 **Grading Intelligence Platform**
 🔗 https://curve.pilani.online
